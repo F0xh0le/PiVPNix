@@ -46,7 +46,7 @@ PiVPNix includes an automatic installation script to make setup as easy as possi
 
 2.  **Clone the PiVPNix repository** from GitHub:
     ```bash
-    git clone https://github.com/signati5/PiVPNix.git
+    git clone https://github.com/F0xh0le/PiVPNix.git
     ```
 
 3.  **Navigate into the new directory**:
@@ -123,7 +123,7 @@ sudo journalctl -u pivpnix.service -n 50 --no-pager
 *   `-n 50`: Shows the last 50 lines.
 *   `--no-pager`: Prints the logs directly to the console.
 
-If you see Python errors or other issues you can't solve, please **[open an issue](https://github.com/signati5/PiVPNix/issues)** on GitHub and include the log output. We'll be happy to help!
+If you see Python errors or other issues you can't solve, please **[open an issue](https://github.com/F0xh0le/PiVPNix/issues)** on GitHub and include the log output. We'll be happy to help!
 
 ---
 
